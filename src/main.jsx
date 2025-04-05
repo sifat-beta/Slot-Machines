@@ -1,6 +1,3 @@
-
-**6. `slot-machine-app/src/main.jsx`**
-
 ```jsx
 import React from 'react'
 import ReactDOM from 'react-dom/client'
